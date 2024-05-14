@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/karamu-version0/static/css/main.1d140d08.css",
+    "main.js": "/karamu-version0/static/js/main.13133a9c.js",
+    "static/media/karamu.png": "/karamu-version0/static/media/karamu.c5551e31fcc5e7b2bf6e.png",
+    "static/media/catering.jpg": "/karamu-version0/static/media/catering.e4c01670aa1ecf7db453.jpg",
+    "static/media/locations.jpg": "/karamu-version0/static/media/locations.26e03a2449e4c04ed1ad.jpg",
+    "static/media/invitation.jpg": "/karamu-version0/static/media/invitation.3ca22b083600f7e83374.jpg",
+    "static/media/decor.jpg": "/karamu-version0/static/media/decor.a24ddeb25d686160119d.jpg",
+    "static/media/avatar.jpg": "/karamu-version0/static/media/avatar.d6a5792c41cca4d27757.jpg",
+    "index.html": "/karamu-version0/index.html",
+    "main.1d140d08.css.map": "/karamu-version0/static/css/main.1d140d08.css.map",
+    "main.13133a9c.js.map": "/karamu-version0/static/js/main.13133a9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d140d08.css",
+    "static/js/main.13133a9c.js"
+  ]
+}
