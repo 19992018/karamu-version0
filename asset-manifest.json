@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/karamu-version0/static/css/main.1d140d08.css",
-    "main.js": "/karamu-version0/static/js/main.13133a9c.js",
-    "static/media/karamu.png": "/karamu-version0/static/media/karamu.c5551e31fcc5e7b2bf6e.png",
-    "static/media/catering.jpg": "/karamu-version0/static/media/catering.e4c01670aa1ecf7db453.jpg",
-    "static/media/locations.jpg": "/karamu-version0/static/media/locations.26e03a2449e4c04ed1ad.jpg",
-    "static/media/invitation.jpg": "/karamu-version0/static/media/invitation.3ca22b083600f7e83374.jpg",
-    "static/media/decor.jpg": "/karamu-version0/static/media/decor.a24ddeb25d686160119d.jpg",
-    "static/media/avatar.jpg": "/karamu-version0/static/media/avatar.d6a5792c41cca4d27757.jpg",
-    "index.html": "/karamu-version0/index.html",
-    "main.1d140d08.css.map": "/karamu-version0/static/css/main.1d140d08.css.map",
-    "main.13133a9c.js.map": "/karamu-version0/static/js/main.13133a9c.js.map"
+    "main.css": "/19992018.github.io/static/css/main.d4cc028b.css",
+    "main.js": "/19992018.github.io/static/js/main.5624b439.js",
+    "static/media/karamu.png": "/19992018.github.io/static/media/karamu.c5551e31fcc5e7b2bf6e.png",
+    "static/media/catering.jpg": "/19992018.github.io/static/media/catering.e4c01670aa1ecf7db453.jpg",
+    "static/media/locations.jpg": "/19992018.github.io/static/media/locations.26e03a2449e4c04ed1ad.jpg",
+    "static/media/invitation.jpg": "/19992018.github.io/static/media/invitation.3ca22b083600f7e83374.jpg",
+    "static/media/avatar-3.jpg": "/19992018.github.io/static/media/avatar-3.4a8cb039840f4edd0692.jpg",
+    "static/media/avatar-5.jpg": "/19992018.github.io/static/media/avatar-5.d0bead483af0acdbd50c.jpg",
+    "static/media/avatar-2.jpg": "/19992018.github.io/static/media/avatar-2.a2e129db3ab1f9e388a4.jpg",
+    "static/media/avatar-1.jpg": "/19992018.github.io/static/media/avatar-1.6ced3b0b232d164d5b4a.jpg",
+    "static/media/avatar-4.jpg": "/19992018.github.io/static/media/avatar-4.bfcaaef091e2b57deaf3.jpg",
+    "static/media/decor.jpg": "/19992018.github.io/static/media/decor.a24ddeb25d686160119d.jpg",
+    "static/media/avatar.jpg": "/19992018.github.io/static/media/avatar.d6a5792c41cca4d27757.jpg",
+    "index.html": "/19992018.github.io/index.html",
+    "main.d4cc028b.css.map": "/19992018.github.io/static/css/main.d4cc028b.css.map",
+    "main.5624b439.js.map": "/19992018.github.io/static/js/main.5624b439.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d140d08.css",
-    "static/js/main.13133a9c.js"
+    "static/css/main.d4cc028b.css",
+    "static/js/main.5624b439.js"
   ]
 }
